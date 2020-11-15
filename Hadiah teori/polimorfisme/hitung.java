@@ -7,7 +7,7 @@ public class hitung extends volume
 	}
 	protected void hasil()
 	{
-		System.out.println("volume lingkaran adalah : "+(PI*getjari()*getjari()));
+		System.out.println("volume bola adalah : "+(4/3*PI*getjari()*getjari()*getjari()));
 	}
 	
 	
