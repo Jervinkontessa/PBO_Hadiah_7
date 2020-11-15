@@ -16,6 +16,11 @@ public class Pln {
 	public String getAlamat(){
 		return alamat;
 	}
+	public void pilihan(){
+		
+	}
+	public pembayaran(){
+	}
 
 
 
