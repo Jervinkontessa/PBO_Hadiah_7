@@ -13,7 +13,7 @@ public class main{
 		
 		h.hasil();
 		
-		h.
+		
 		
 	
 		
