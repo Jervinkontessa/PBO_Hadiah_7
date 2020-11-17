@@ -19,7 +19,7 @@ public class Pln {
 	public void pilihan(){
 		
 	}
-	public pembayaran(){
+	public void pembayaran(){
 	}
 
 
